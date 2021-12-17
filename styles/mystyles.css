@@ -1,0 +1,16 @@
+.bold {font-weight: bold;
+font-style: normal; font-size: larger}
+
+.italics {font-weight: normal; font-style: italic}
+
+.normal {font-weight: normal; font-style: normal}
+
+.center {background-position: center}
+
+.story {font-family: sans-serif}
+
+.blue {color: blue}
+
+.underline {text-decoration: underline}
+
+.small{font-size: smaller; color: white}
